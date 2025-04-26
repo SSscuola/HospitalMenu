@@ -19,8 +19,8 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 ## Requisiti Funzionali
 
 - **Registrazione e Accesso**
-   - Creazione di un account con nome utente, email, password e codice fiscale
-   - Possibilità di accedere con nome utente e password
+   - Login nell'account con codice fiscale / email e password
+   - Possibilità di accedere con nome utente (cognome.nome) e password
    - Modifica successiva dell'account con possibilità di cambiare email, password e nome utente
 
 - **Gestione del Menù**
