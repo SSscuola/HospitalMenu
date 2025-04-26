@@ -4,6 +4,11 @@
 
 Prenotazione rapida e personalizzata del menù ospedaliero per medici e personale sanitario <br />
 
+## Target 
+ - **Medici e infermieri** che lavorano in ospedale, con turni prolungati e poco tempo a disposizione
+ - **Altre figure sanitarie autorizzate** all’uso della mensa interna, come assistenti alla persona e tecnici sanitari
+<br />
+
 ## Descrizione Progetto
 
 L'applicazione è progettata per semplificare la prenotazione dei pasti in ospedale, con particolare attenzione ai bisogni di medici e personale sanitario. Grazie a un'interfaccia semplice e intuitiva, l'app consente di selezionare i piatti preferiti, personalizzarli in base alle proprie esigenze alimentari e ricevere notifiche sulla disponibilità del pasto <br />
